@@ -1,0 +1,10 @@
+.container {
+  border: 1px solid grey;
+  height: 150px;
+  width: 400px;
+  padding:40px;
+  margin: 120px auto auto auto;
+}
+label {
+  font-size:15px;
+}
